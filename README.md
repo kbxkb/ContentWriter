@@ -436,3 +436,4 @@ In this lab you will get hands-on experience developing an Office Word Add-in.
 
 Congratulations! In this exercise you extended the add-in's capabilities by adding JavaScript code to insert content into the active Word document using Open Office XML.
 
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
